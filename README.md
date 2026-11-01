@@ -98,9 +98,3 @@ COS201-Programming-I/
     └── ItemCost.java
 ```
 
-## Submission reminders
-- Compile and run every Java file on your own computer.
-- Update this README if you make changes to the programmes.
-- Commit your changes using the commit messages specified in the lecture note.
-- Push the commits to GitHub and verify that the source files and README are visible online.
-- Submit your actual repository URL using the lecturer's Google Form. Do not submit an example URL.
