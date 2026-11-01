@@ -51,11 +51,11 @@ I practised creating a Java class with a `main` method, displaying messages with
 ## Week 3: Variables, Data Types, Expressions and Input/Output
 
 ### Objectives
-- Declare and initialise Java variables.
-- Use appropriate primitive and reference data types.
+- To learn the basics of having programming.
+- To understand how to write simple java programs.
 - Perform arithmetic calculations.
 - Read keyboard input using `Scanner`.
-- Display formatted output.
+- To practice solving problems with java.
 - Compile and test Java programmes.
 
 ### Programmes
