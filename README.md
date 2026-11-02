@@ -1,9 +1,9 @@
 # COS 201 — Computer Programming I
 
 ## Student Information
-- Name: Olajibade Taiwo
-- Matriculation Number: 26/20916
-- Programme: Software Engineering
+- Name: akagwu bright 
+- Matriculation Number: 26/20750
+- Programme: Cyber security 
 - Level: 200 Level
 - Course: COS 201 — Computer Programming I
 
